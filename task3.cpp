@@ -15,10 +15,7 @@ bool is_prime(int n){
 	
 	return true;
 }
-bool is_coprime(int a,int b){
-	
-	
-}
+
 int min_sum(int num){
 	int ent=2;
 	int arr[num-2];
